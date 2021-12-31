@@ -1,6 +1,6 @@
-<div style="text-align: center;">
-<img src="./assets/background.jpeg" alt="felipequefezbanner" style="max-height:200px;  border: 2px solid white;
-  border-radius: 25px;"/>
+<div align="center" style="text-align: center;">
+<kbd><img src="./assets/background.jpeg" alt="felipequefezbanner" width="100%" style="max-height:200px;  border: 2px solid white;
+  border-radius: 25px;"/></kbd>
 </div>
 <br/>
 
