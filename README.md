@@ -1,5 +1,5 @@
 <div align="center" style="text-align: center;">
-<kbd><img src="./assets/background.jpeg" alt="felipequefezbanner" width="650" style="max-height:200px;  border: 2px solid white;
+<kbd><img src="./assets/background.jpeg" alt="felipequefezbanner" width="950" style="max-height:200px;  border: 2px solid white;
   border-radius: 25px;"/></kbd>
 </div>
 <br/>
@@ -24,4 +24,4 @@
 
 </br>
 
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=felipequefez&show_icons=true&theme=dark" /></p>
+<p align="center"><img width="65%" src="https://github-readme-stats.vercel.app/api?username=felipequefez&show_icons=true&theme=dark" /></p>
