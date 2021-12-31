@@ -10,7 +10,6 @@
 <p align="center">
   <a href="https://github.com/FelipeQueFez">
     <img src="https://img.shields.io/github/followers/felipequefez?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
   <a href="http://twitter.com/felipequefezz">
     <img src="https://img.shields.io/twitter/follow/felipequefezz?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
@@ -21,6 +20,16 @@
     <img src="https://img.shields.io/twitch/status/felipequefez?label=Twitch&logo=twitch&style=for-the-badge" />
   </a>
 </p>
+
+</br>
+
+<p align="center">
+</a>
+    <a href="https://medium.com/@felipequefez">
+    <img src="https://img.shields.io/badge/medium-felipequefez-blue" alt="Medium badge" />
+  </a>
+</p>
+
 
 </br>
 
