@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-<img src="./assets/background.jpeg" alt="felipequefezbanner" style="max-height:300px;  border: 2px solid white;
+<img src="./assets/background.jpeg" alt="felipequefezbanner" style="max-height:200px;  border: 2px solid white;
   border-radius: 25px;"/>
 </div>
 <br/>
