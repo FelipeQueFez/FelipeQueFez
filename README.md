@@ -1,8 +1,8 @@
 <div style="text-align: center;">
-<img src="./assets/background.jpeg" alt="felipequefezbanner" style="max-height:400px;  border: 2px solid white;
+<img src="./assets/background.jpeg" alt="felipequefezbanner" style="max-height:300px;  border: 2px solid white;
   border-radius: 25px;"/>
 </div>
-
+<br/>
 
 - I am Felipe Augusto and I make youtube videos: [FelipeQueFez](https://www.youtube.com/channel/UCcSBSVYhCgspV5-oQ24T5ow)! My goal is to help people learn how to code in an entertaining way. 
 - I have worked with Flutter and Dart since 2018 and I am now a Flutter at Code Factory. 
