@@ -49,4 +49,4 @@
 
 
 # Published Articles
-- [Desenvolvedor - Nem tudo é código]([https://pub.dev/packages/custom_view](https://medium.com/@felipequefez/desenvolvedor-nem-tudo-%C3%A9-c%C3%B3digo-123c7ab776fd)https://medium.com/@felipequefez/desenvolvedor-nem-tudo-%C3%A9-c%C3%B3digo-123c7ab776fd)
+- [Desenvolvedor - Nem tudo é código](https://medium.com/@felipequefez/desenvolvedor-nem-tudo-%C3%A9-c%C3%B3digo-123c7ab776fd)
