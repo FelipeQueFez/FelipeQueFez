@@ -48,5 +48,5 @@
 - [Professor FC](https://github.com/professorfc)
 
 
-# Published Packages
-- [custom_view](https://pub.dev/packages/custom_view)
+# Published Articles
+- [Desenvolvedor - Nem tudo é código]([https://pub.dev/packages/custom_view](https://medium.com/@felipequefez/desenvolvedor-nem-tudo-%C3%A9-c%C3%B3digo-123c7ab776fd)https://medium.com/@felipequefez/desenvolvedor-nem-tudo-%C3%A9-c%C3%B3digo-123c7ab776fd)
